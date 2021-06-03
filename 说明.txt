@@ -1,0 +1,4 @@
+git的几种方式：
+	1.选中文件夹-->右键-->commit-->选中代码，写好日志-->点击Commit
+	2.右键-->Git GUI Here-->
+	3.右键-->Bash-->ls查看文件-->git add 文件名/*-->git commit -m "提交日志"-->git push
